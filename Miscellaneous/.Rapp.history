@@ -1,0 +1,3 @@
+load("/Users/udayshankar/Desktop/UP Elections R files/2017-02-08 .RData")
+load("/Users/udayshankar/Desktop/UP Elections R files/2017-02-07 .RData")
+load("/Users/udayshankar/Desktop/UPElectionsRfiles/2017-02-07 .RData")
